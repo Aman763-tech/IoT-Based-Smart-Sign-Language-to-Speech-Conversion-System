@@ -1,0 +1,5 @@
+Flex sensors detect finger bending and movement.
+Sensor data is processed using a microcontroller (Arduino/ESP32).
+Predefined gesture patterns are matched with stored data.
+Corresponding text is generated.
+Output is sent via Bluetooth to a mobile device or speaker for speech conversion.
